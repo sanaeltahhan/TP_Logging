@@ -1,24 +1,6 @@
-11:08:16.060 [main] INFO  dev.console.App -
+11:26:57.931 [main] INFO  dev.console.App -
 		Bonjour Slf4J !
-11:08:16.062 [main] INFO  dev.console.App -
+11:26:57.933 [main] INFO  dev.console.App -
 		Implementation Logback
-11:09:46.940 [main] INFO  dev.console.App -
-		Bonjour Slf4J !
-11:09:46.943 [main] INFO  dev.console.App -
-		Implementation Logback
-11:09:46.945 [main] DEBUG dev.service.AppService -
-		Traitement 1 : param = test
-11:10:47.876 [main] INFO  dev.console.App -
-		Bonjour Slf4J !
-11:10:47.879 [main] INFO  dev.console.App -
-		Implementation Logback
-11:11:02.127 [main] INFO  dev.console.App -
-		Bonjour Slf4J !
-11:11:02.128 [main] INFO  dev.console.App -
-		Implementation Logback
-11:12:40.492 [main] INFO  dev.console.App -
-		Bonjour Slf4J !
-11:12:40.496 [main] INFO  dev.console.App -
-		Implementation Logback
-11:12:40.497 [main] DEBUG dev.service.AppService -
+11:26:57.934 [main] DEBUG dev.service.AppService -
 		Traitement 1 : param = test

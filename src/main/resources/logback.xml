@@ -23,11 +23,11 @@
 		<appender-ref ref="STDOUT" />
 	</logger> -->
 	
-	<logger name="dev.service" level="DEBUG">
+	<logger name="dev.service" level="DEBUG" additivity="false">
 		<appender-ref ref="FILE" />
 	</logger>
 	
-	<logger name="dev.console" level="INFO">
+	<logger name="dev.console" level="INFO"  additivity="false">
 		<appender-ref ref="FILE" />
 	</logger>
 	
